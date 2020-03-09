@@ -1,6 +1,6 @@
 # CodeWars-Python # SOLUTIONS
 
-1 - 
+1 - Stop gninnipS My sdroW!
 2 - 
 3 - 
 4 - 
